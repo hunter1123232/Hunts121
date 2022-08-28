@@ -1,0 +1,108 @@
+/* master style sheet 
+
+/* OK to change these settings */
+body {
+	background-color:#3c0101;
+	font-family:Arial, sans-serif;
+	font-size:20px;
+	}
+
+/* DO NOT CHANGE */
+#wrapper { 
+	width:800px;
+	margin: 20px auto 25px auto;
+	}
+
+/* DO NOT CHANGE */
+#header {
+	float:left;
+	width:800px;
+	height:200px;
+	border:;
+	}
+
+
+#nav   {
+	float: left;
+	width: 151px;
+	min-height: 300px;
+	margin-top:5px;
+	padding: 10px;
+	
+	/* OK to change these*/
+	background:#3c0101;
+	font-size: 16px;
+  border: solid #000000
+}
+
+#nav a {
+	text-decoration:none;
+	
+	/* OK to change these*/
+	color:  #000000;
+	font-size: 20px;
+}	
+
+#main {
+	/* Don't change these settings */
+	float:right;
+	border: solid #000000 1px;
+	width:600px;
+	margin:5px 0;
+	padding:10px;
+	min-height: 400px;
+	
+	/* OK to change these*/	
+	background-color:#3c0101;
+	}
+
+
+/* Change these to suit your needs */
+
+/* Heading 1 settings */
+#main h1 {
+	color: #black;
+	font-family:Arial;
+}
+
+/* Hyper Link settings */
+#main a:link  {
+	background:#black;
+	color: darkblue;
+	padding: 0 5px;
+	text-decoration: none;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+.banner {
+  background: #grey;
+}
+
+.banner__content {
+  padding: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.banner__text {
+  flex-grow: 1;
+  line-height: 1.4;
+  font-family: "Quicksand", sans-serif;
+}
+
+.banner__close {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.banner__text,
+.banner__close > span {
+  color: #ffffff;
+}
