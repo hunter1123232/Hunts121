@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<html> 
+
+<head>
+   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="icon" href="pictures/p.png"/>
+	<title>Home - Hunts</title>
+	<link href="style.css" rel="stylesheet" />
+</head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5908004978881342"
+     crossorigin="anonymous"></script>
+
+<body>
+   <div class="banner">
+    <div class="banner__content">
+      <div class="banner__text">
+        <strong>Alert:</strong> We have closed our <a href="page1.html">"Pc apps"</a> due to copyright issues.
+      </div>
+      <button class="banner__close" type="button">
+        <span class="material-icons">
+          
+        </span>
+      </button>
+    </div>
+  </div>
+	<!-- Keeps page in the centre of the browser -->
+	<div id="wrapper">
+
+		<!-- Page Heading graphic goes here -->
+
+		<div id="header">
+			<!-- replace the temporary banner with your own -->
+			<img src="pictures/ukrain.png">
+
+</div>
+
+
+<!-- Navigation bar goes here -->
+<div id="nav">
+
+<!-- add more links here if you need them -->
+<a href="index.html">Home</a><br>
+<a href="page1.html">Pc apps</a><br>
+<a href="page2.html">About jayver</a><br>
+<a href="page3.html">Hunts pvp</a><br>
+  <a href="page4.html">Updates</a><br>
+  <a href="https://forms.gle/RMR6jrG3TFZbAY956">Help</a><br>
+  <a href="https://cash.app/$huntersland2012">Donate to us</a><br>
+  <a href="https://hunts.tebex.io">Our store</a><br>
+
+</div>
+
+
+<!-- Add your own page content below here -->
+<div id="main">
+
+
+<h1>Welcome to Hunts</h1>
+  <h2>We have closed our "Pc apps" section due to copyright issues <a href="page1.html">🡢 Learn more</a></h2>
+<p> <a href="https://discord.gg/XZxjkGsHpR">join our discord</a> <a href="https://donate.amnestyusa.org/page/100216/donate/1?ea.tracking.id=MRPaidSearchFR2022&supporter.appealCode=W22XXADEVR1P&en_og_source=W22XXADEVR1P&gclid=CjwKCAjw6fyXBhBgEiwAhhiZsmGY8Bd1oYjPs8rZHU_Hk3CILSnr24ouE2ikn72TxGhmu_1C3AtnFRoCuzkQAvD_BwE&gclsrc=aw.ds">Donate to ukraine!</a><br> </p>
+Partnered with jayver
+</div>
+
+<!-- Don't change anything below here -->
+</div>
+</body>
+</html>
